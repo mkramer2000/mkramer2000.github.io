@@ -58,7 +58,7 @@ const CONFIG = {
   },
   social: {
     linkedin: '',
-    x: 'arif_szn',
+    x: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
