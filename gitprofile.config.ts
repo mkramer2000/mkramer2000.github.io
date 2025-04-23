@@ -83,20 +83,11 @@ const CONFIG = {
       'https://github.com/mkramer2000/Mason-s-CV/raw/main/Mason-s-CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Bioinformatics',
+    'Statistics',
+    'Driving',
+    'Problem Solving'
+    
   ],
   experiences: [
     {
