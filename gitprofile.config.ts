@@ -124,10 +124,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Stanislaus State',
+      degree: 'Biological Sciences',
+      from: '2019',
+      to: '2025',
     },
     {
       institution: 'Institution Name',
