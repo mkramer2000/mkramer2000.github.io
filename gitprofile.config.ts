@@ -91,24 +91,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'NorCal Ambulance',
+      position: 'EMT',
+      from: 'June 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.norcalambulance.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
+      name: ' California EMT Certificate',
+      body: 'National Regerestry of Emergency Medical Technicians',
       year: 'March 2022',
       link: 'https://example.com',
     },
@@ -121,10 +115,10 @@ const CONFIG = {
       to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Modesto Junior College',
+      degree: 'Prereqs of Biological Sciences',
+      from: '2019',
+      to: '2023',
     },
   ],
   publications: [
