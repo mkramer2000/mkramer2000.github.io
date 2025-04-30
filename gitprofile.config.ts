@@ -97,7 +97,6 @@ const CONFIG = {
       to: 'Present',
       companyLink: 'https://www.norcalambulance.com/',
     },
-    {
   ],
   certifications: [
     {
