@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Migration to Cities',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Discusses the implications of the movement of people from rural environments to urban cities.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/mkramer2000/mkramer2000.github.io/raw/main/Migration.png',
+          link: 'https://github.com/mkramer2000/mkramer2000.github.io/raw/main/Migration%20PDF.pdf',
         },
         {
-          title: 'Project Name',
+          title: 'Do we have the Right to Die',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Discusses the grand ethical issues related to peoples right in medical environemts when it comes to end of life treatment/care.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/mkramer2000/mkramer2000.github.io/raw/main/Eu.png',
+          link: 'https://github.com/mkramer2000/mkramer2000.github.io/raw/main/euthanasia%20PDF.pdf',
         },
       ],
     },
